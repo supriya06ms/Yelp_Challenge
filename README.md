@@ -13,12 +13,12 @@ ii)Dependable Software or Packages required
       import nltk
       nltk.download()
       
-   Iteration utilities
-   	To install Iteration Utilities library, run in terminal
+    Iteration utilities
+   	To install Iteration Utilities library, run in terminal:
      	conda install -c conda-forge iteration_utilities
       
-   Affin	
-    Download Affin from following link
+    Affin	
+    	Download Affin from following link
     	https://github.com/fnielsen/afinn/tree/master/afinn
 
 iii) Run the jupyter notebook
