@@ -4,7 +4,8 @@ Four Course Meal Classification Using Sentiment Analysis for Restaurant Business
 i) Dataset URL:
 	http://www.yelp.com/dataset/challenge
 
-ii)Dependable Software or Packages required
+ii)Dependable Software or Packages required: 
+
      Anaconda3
     	https://www.continuum.io/downloads
  
